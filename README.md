@@ -23,7 +23,7 @@ I love **motorsport** and I work with several colleagues to build a full-autonom
 * Docker
 
 
-# Driverless development skills
+# Driverless vehicle development skills
 **A bit of everything!** As Division Manager I have to understand the technologies behind each aspect of the car. From a simulation environment like Gazebo to **MatLab** for the Control System, from communication protocols to **embedded systems** programming.
 
 
