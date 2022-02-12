@@ -4,7 +4,7 @@ Hello everyone, I'm **Alessandro Maggio**, and I've been working with every piec
 I love **motorsport** and I work with several colleagues to build a full-autonomous racing car for the Formula SAE competition. My dream is putting togheter what I like studying and my passion for the automotive field. Maybe one day a Driverless F1?
 
 # Technologies I feel confident with!
-### A background as Computer Engineering joined to an Artificial Intelligence speliacist pushed me to learn different Langagues:
+### A background as Computer Engineering joined to an Artificial Intelligence specialist pushed me to learn different Langagues:
 * C
 * C++
 * Java
