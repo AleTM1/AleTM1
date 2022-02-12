@@ -12,7 +12,7 @@ I love **motorsport** and I work with several colleagues to build a full-autonom
 * Scala
 * JavaScript
 * LaTeX (well, is a sort of language)
-### And also learning many important framework and libraries:
+### And also learning many important frameworks and libraries:
 * NumPy
 * TensorFlow
 * Keras
