@@ -4,7 +4,7 @@ Hello everyone, I'm **Alessandro Maggio**, and I've been working with every piec
 I love **motorsport** and I work with several colleagues to build a full-autonomous racing car for the Formula SAE competition. My dream is putting togheter what I like studying and my passion for the automotive field. Maybe one day a Driverless F1?
 
 # Technologies I feel confident with!
-### A background as Computer Engineering joined to an Artificial Intelligence specialist pushed me to learn different Langagues:
+### A background as Computer Engineering joined to an AI specialist profile pushed me to learn different Langagues:
 * C
 * C++
 * Java
@@ -12,19 +12,23 @@ I love **motorsport** and I work with several colleagues to build a full-autonom
 * Scala
 * JavaScript
 * LaTeX (well, is a sort of language)
-### And also learning many important frameworks and libraries:
+### Some important frameworks and libraries I feel confindent with:
 * NumPy
+* Pandas
 * TensorFlow
 * Keras
-* Pandas 
 * SciKit Learn
 * OpenCV
-* ROS
+* OpenMP
+### And other relevant platforms and tools:
+* Google Analytics
+* Google Cloud Platform
+* Google Big Query
 * Docker
 
 
 # Driverless vehicle development skills
-**A bit of everything!** As Division Manager I have to understand the technologies behind each aspect of the car. From a simulation environment like Gazebo to **MatLab** for the Control System, from communication protocols to **embedded systems** programming.
+**A bit of everything!** As Division Manager I have to understand the technologies behind each aspect of the car. From a simulation environment like Gazebo to **MatLab** for the Control System, from communication protocols to **embedded systems** programming (like ROS insights!).
 
 
 # Other things...
