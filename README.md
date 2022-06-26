@@ -23,7 +23,7 @@ I love **motorsport** and I work with several colleagues to build a full-autonom
 ### And other relevant platforms and tools:
 * Google Analytics
 * Google Cloud Platform
-* Google Big Query
+* Amazon Web Services
 * Docker
 
 
