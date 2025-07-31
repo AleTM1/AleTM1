@@ -6,9 +6,9 @@ I’m not diving deep into data, I’m training to become a plane pilot in my fr
 aerial journeys on video. Ready to soar higher together?
 
 ## 🛠️ **Skills**
-- **Languages**: Python, C++, PySpark, Java  
-- **Frameworks**: TensorFlow, PyTorch, OpenCV  
-- **Cloud**: Azure (Proficient), AWS (Basic)  
+- **Languages**: Python, C++, PySpark, Java, Typescript
+- **Frameworks**: TensorFlow, PyTorch, Langchain, OpenCV  
+- **Cloud**: Azure (Proficient), Google Cloud Platform (Proficient), AWS (Basic)  
 - **Other**: MLOps, GDPR Knowledge  
 
 ---
